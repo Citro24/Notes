@@ -5,6 +5,17 @@
 -->
 # Nextcloud Notes for Android
 
+> **Proyecto de clase — Desarrollo de Aplicaciones Multiplataforma (DAM)**
+>
+> Este repositorio es una copia modificada de [Nextcloud Notes para Android](https://github.com/nextcloud/notes-android),
+> desarrollado por Nextcloud GmbH y sus colaboradores bajo licencia **GPL-3.0**.
+>
+> Las modificaciones realizadas (color de marca amarillo y texto de autoría en la pantalla de bienvenida)
+> forman parte de un trabajo académico de la asignatura *Programación multimedia y dispositivos móviles*.
+> Autor de las modificaciones: **Eduardo Cidón Solís**.
+>
+> El código original y su licencia se conservan íntegros; consulta [LICENSE](LICENSE) para más detalles.
+
 An android client for [Nextcloud Notes App](https://github.com/nextcloud/notes/).
 
 [![Android CI](https://github.com/nextcloud/notes-android/actions/workflows/android.yml/badge.svg)](https://github.com/nextcloud/notes-android/actions/workflows/android.yml)
