@@ -93,5 +93,6 @@
         android:contentDescription="@string/action_create"
         android:title="@string/action_create"
         app:backgroundTint="@color/defaultBrand"
-        app:srcCompat="@drawable/ic_add_white_24dp" />
+        app:srcCompat="@drawable/ic_add_white_24dp"
+        app:tint="@color/onBrand" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

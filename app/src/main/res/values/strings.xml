@@ -546,4 +546,7 @@
     <string name="share_expires">Share expires on %1$s</string>
     <string name="dismiss">Dismiss</string>
     <string name="account_not_found">Account not found!</string>
+
+    <!-- Añadido para el trabajo: autoría mostrada en la pantalla de bienvenida -->
+    <string name="edited_by">Editado por: Eduardo Cidón Solís</string>
 </resources>

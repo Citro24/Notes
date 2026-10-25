@@ -19,7 +19,10 @@
     <color name="fg_inverse">#FFFFFF</color>
     <color name="highlight_textColor_Warning">#e53935</color>
 
-    <color name="defaultBrand">#0082C9</color>
+    <!-- Modificado: el color de marca pasa del azul Nextcloud (#0082C9) al amarillo ámbar -->
+    <color name="defaultBrand">#FFC107</color>
+    <!-- Añadido: color oscuro para textos e iconos que van encima del amarillo (contraste) -->
+    <color name="onBrand">#1A1A1A</color>
     <color name="secondary_text_color">#666666</color>
 
     <color name="cursorHandles">#555566</color>
